@@ -1,0 +1,276 @@
+Results Histogram:
+"ADHD|Controls": 1 patients
+"Abdominal Aortic Aneurysm": 1 patients
+"Ametropia|Myopia|Hyperopia|Astigmatism|Presbyopia": 1 patients
+"Androgenetic Alopecia|Alopecia": 1 patients
+"Anesthesia: 1 patients
+"Anterior Cruciate Ligament Reconstruction": 1 patients
+"Articular Cartilage Disorder of Knee": 1 patients
+"Aseptic Loosening|Arthroplasty Complications": 1 patients
+"Atrial Fibrillation": 1 patients
+"Autonomic Failure|Dysautonomia|Cognitive Impairment|Ehlers-Danlos Syndrome|Postural Tachycardia Syndrome|Pure Autonomic Failure": 1 patients
+"Binge-Eating Disorder|Overweight|Obesity": 1 patients
+"Blood Glucose: 1 patients
+"Breast Cancer|Hot Flashes|Postmenopausal Symptoms": 1 patients
+"Bronchial Cancer|Malignant Mesothelioma": 1 patients
+"COPD|Emphysema or COPD|COPD Exacerbation|COPD Exacerbation Acute|Respiratory Failure|Ventilatory Failure": 1 patients
+"Cancer|Cardiovascular Diseases": 1 patients
+"Cancer|Metastasis to Lung": 1 patients
+"Cannabis|Cannabis Use": 1 patients
+"Carbohydrate Metabolism": 1 patients
+"Caries: 1 patients
+"Clinical Stage 0 Cutaneous Melanoma AJCC v8|Clinical Stage I Cutaneous Melanoma AJCC v8|Clinical Stage IA Cutaneous Melanoma AJCC v8|Clinical Stage IB Cutaneous Melanoma AJCC v8|Clinical Stage II Cutaneous Melanoma AJCC v8|Clinical Stage IIA Cutaneous Melanoma AJCC v8|Clinical Stage IIB Cutaneous Melanoma AJCC v8|Clinical Stage IIC Cutaneous Melanoma AJCC v8|Clinical Stage III Cutaneous Melanoma AJCC v8|First Degree Relative|Pathologic Stage 0 Cutaneous Melanoma AJCC v8|Pathologic Stage I Cutaneous Melanoma AJCC v8|Pathologic Stage IA Cutaneous Melanoma AJCC v8|Pathologic Stage IB Cutaneous Melanoma AJCC v8|Pathologic Stage II Cutaneous Melanoma AJCC v8|Pathologic Stage IIA Cutaneous Melanoma AJCC v8|Pathologic Stage IIB Cutaneous Melanoma AJCC v8|Pathologic Stage IIC Cutaneous Melanoma AJCC v8|Pathologic Stage III Cutaneous Melanoma AJCC v8|Pathologic Stage IIIA Cutaneous Melanoma AJCC v8|Pathologic Stage IIIB Cutaneous Melanoma AJCC v8|Pathologic Stage IIIC Cutaneous Melanoma AJCC v8": 1 patients
+"Corpus Callosum Malformation|Prenatal Disorder": 1 patients
+"Critical Limb Ischemia": 1 patients
+"Crohn Disease": 1 patients
+"Dementia|Dysphagia": 1 patients
+"Depression|Psychiatric Disorder|Brain Diseases|Central Nervous System Diseases|Nervous System Diseases": 1 patients
+"Depressive Disorder: 1 patients
+"Diabetes Mellitus: 1 patients
+"Down Syndrome: 1 patients
+"Dysphagia": 1 patients
+"Eccentric Hip Adduction Strength": 1 patients
+"Edema: 1 patients
+"Ehlers-Danlos Syndrome (EDS)|Complex Regional Pain Syndrome (CRPS)|Amplified Musculoskeletal Pain Syndrome (AMPS)|Low Back Pain|Fibromyalgia|Chronic Widespread Pain": 1 patients
+"Eosinophilic Gastritis|Eosinophilic Gastroenteritis": 1 patients
+"Femoral Artery Stenosis|Femoral Artery Occlusion|Popliteal Arterial Stenosis|Popliteal Artery Occlusion": 1 patients
+"HIV Infections|Sexually Transmitted Diseases|Stigma: 1 patients
+"HIV/AIDS": 1 patients
+"Healthy Adult Asian Participants": 1 patients
+"Healthy Male Volunteers": 1 patients
+"Healthy Volunteer": 1 patients
+"Healthy Volunteers": 1 patients
+"Healthy": 2 patients
+"Hepatitis C": 1 patients
+"High Caries Risk Patients|Caries|Antimicrobial Effect|Side Effect": 1 patients
+"Hypermetabolism in ICU|Loss of Muscle Mass|Functional Disability After ICU|ICU Acquired Hypogonadism|Treatment With Testosterone Gel in ICU": 1 patients
+"Hypersensitivity|Food Allergy|Hypersensitivity: 1 patients
+"Iliac Artery Stenosis|Iliac Artery Occlusion|Femoral Artery Stenosis|Femoral Artery Occlusion|Popliteal Arterial Stenosis|Popliteal Artery Occlusion": 1 patients
+"Injury: 1 patients
+"Intracranial Aneurysm": 1 patients
+"Low Back Pain: 1 patients
+"Lung Cancer": 1 patients
+"Melanoma": 1 patients
+"Metabolic Disease": 1 patients
+"Metastatic Colorectal Cancer|Liver Metastases": 1 patients
+"Migraine Aura": 1 patients
+"Multiple Myeloma": 1 patients
+"Multiple Sclerosis: 1 patients
+"No Results Available": 27 patients
+"Nonalcoholic Fatty Liver Disease|Nonalcoholic Steatohepatitis|Bariatric Surgery Candidate|Obesity: 1 patients
+"Obstructive Sleep Apnea": 1 patients
+"Oocyte Competence": 1 patients
+"Osteoarthritis: 2 patients
+"Ovarian Cancer Recurrent": 1 patients
+"PAH|Pulmonary Hypertension|Pulmonary Arterial Hypertension|Hypertension|Connective Tissue Diseases|Familial Primary Pulmonary Hypertension|Vascular Diseases|Cardiovascular Diseases|Hypertension: 1 patients
+"Pain: 3 patients
+"Pain|Abuse: 1 patients
+"Pain|Postoperative Pain|Bleeding|Nose Bleed": 1 patients
+"Partially Edentulous Maxilla: 1 patients
+"Peripheral Neuropathy": 1 patients
+"Post-Concussion Syndrome|Mild Traumatic Brain Injury|Vestibular Disorder|Whiplash Injuries|Concussion: 1 patients
+"Postoperative Care/Methods|Drainage/Methods|Edema/Prevention & Control|Orthognathic Surgical Procedures/Adverse Effects": 1 patients
+"Postoperative Pain Management": 1 patients
+"Pramipexole|Emotions|Motivation|Reward|Dopamine": 1 patients
+"Pregnancy: 1 patients
+"Primary Sclerosing Cholangitis|Cholangitis|Cholangitis: 1 patients
+"Pulmonary TB": 1 patients
+"Respiration: 1 patients
+"Rotator Cuff Impingement Syndrome": 1 patients
+"Seborrheic Dermatitis": 1 patients
+"Self-regulation|Medication Adherence": 1 patients
+"Sentinel Lymph Node Biopsy": 1 patients
+"Sepsis|Acute Kidney Injury|Septic Shock|Sepsis: 1 patients
+"Sexual Dysfunction": 1 patients
+"Single Ventricle Heart Disease": 1 patients
+"Solid Tumor|HER-2 Protein Overexpression": 1 patients
+"Spinal Anaesthesia": 1 patients
+"Suicide and Self-harm": 1 patients
+"Telemedicine: Smoking Cessation App Only|Telemedicine: Smoking Cessation Counseling|Telemedicine: App + Counseling|Usual Care": 1 patients
+"Thoracic Paravertebral Blocks": 1 patients
+"Tobacco Use": 1 patients
+"Ultrasound": 1 patients
+"Urinary Tract Infections": 1 patients
+"Virtual Reality|Pain|Pain Perception|Pain Management|Anxiety|Catastrophizing: 1 patients
+"Visual Acuity": 1 patients
+
+Age Histogram:
+1-6: 1 patients
+10-12: 1 patients
+10-17: 1 patients
+10-50: 1 patients
+12-17: 2 patients
+13-17: 1 patients
+14-18: 1 patients
+14-65: 1 patients
+15-29: 1 patients
+18-100: 2 patients
+18-25: 1 patients
+18-26: 1 patients
+18-29: 1 patients
+18-39: 1 patients
+18-40: 2 patients
+18-45: 3 patients
+18-49: 3 patients
+18-50: 4 patients
+18-55: 5 patients
+18-60: 4 patients
+18-64: 1 patients
+18-65: 17 patients
+18-70: 6 patients
+18-75: 11 patients
+18-79: 1 patients
+18-80: 7 patients
+18-85: 3 patients
+18-89: 1 patients
+18-90: 2 patients
+18-99: 1 patients
+19-64: 1 patients
+19-94: 1 patients
+2-10: 1 patients
+20-42: 1 patients
+20-45: 1 patients
+20-55: 2 patients
+20-70: 1 patients
+20-80: 1 patients
+20-90: 1 patients
+21-53: 1 patients
+21-60: 2 patients
+21-70: 1 patients
+22-65: 1 patients
+30-55: 1 patients
+30-75: 1 patients
+35-55: 1 patients
+4-20: 1 patients
+40-82: 1 patients
+40-89: 1 patients
+45-65: 1 patients
+45-70: 1 patients
+45-75: 1 patients
+5-18: 1 patients
+50-65: 1 patients
+50-75: 1 patients
+50-80: 1 patients
+6-17: 1 patients
+6-18: 2 patients
+6-21: 1 patients
+60-75: 2 patients
+65-99: 1 patients
+7-18: 2 patients
+
+Results and Age Combination Histogram:
+"ADHD|Controls" 18-49: 1 patients
+"Abdominal Aortic Aneurysm" 18-85: 1 patients
+"Ametropia|Myopia|Hyperopia|Astigmatism|Presbyopia" 18-60: 1 patients
+"Androgenetic Alopecia|Alopecia" 18-65: 1 patients
+"Anesthesia 18-100: 1 patients
+"Anterior Cruciate Ligament Reconstruction" 18-49: 1 patients
+"Articular Cartilage Disorder of Knee" 18-50: 1 patients
+"Aseptic Loosening|Arthroplasty Complications" 19-94: 1 patients
+"Atrial Fibrillation" 18-75: 1 patients
+"Autonomic Failure|Dysautonomia|Cognitive Impairment|Ehlers-Danlos Syndrome|Postural Tachycardia Syndrome|Pure Autonomic Failure" 18-60: 1 patients
+"Binge-Eating Disorder|Overweight|Obesity" 18-65: 1 patients
+"Blood Glucose 18-40: 1 patients
+"Breast Cancer|Hot Flashes|Postmenopausal Symptoms" 50-65: 1 patients
+"Bronchial Cancer|Malignant Mesothelioma" 18-70: 1 patients
+"COPD|Emphysema or COPD|COPD Exacerbation|COPD Exacerbation Acute|Respiratory Failure|Ventilatory Failure" 40-89: 1 patients
+"Cancer|Cardiovascular Diseases" 18-80: 1 patients
+"Cancer|Metastasis to Lung" 4-20: 1 patients
+"Cannabis|Cannabis Use" 18-70: 1 patients
+"Carbohydrate Metabolism" 18-40: 1 patients
+"Caries 18-50: 1 patients
+"Clinical Stage 0 Cutaneous Melanoma AJCC v8|Clinical Stage I Cutaneous Melanoma AJCC v8|Clinical Stage IA Cutaneous Melanoma AJCC v8|Clinical Stage IB Cutaneous Melanoma AJCC v8|Clinical Stage II Cutaneous Melanoma AJCC v8|Clinical Stage IIA Cutaneous Melanoma AJCC v8|Clinical Stage IIB Cutaneous Melanoma AJCC v8|Clinical Stage IIC Cutaneous Melanoma AJCC v8|Clinical Stage III Cutaneous Melanoma AJCC v8|First Degree Relative|Pathologic Stage 0 Cutaneous Melanoma AJCC v8|Pathologic Stage I Cutaneous Melanoma AJCC v8|Pathologic Stage IA Cutaneous Melanoma AJCC v8|Pathologic Stage IB Cutaneous Melanoma AJCC v8|Pathologic Stage II Cutaneous Melanoma AJCC v8|Pathologic Stage IIA Cutaneous Melanoma AJCC v8|Pathologic Stage IIB Cutaneous Melanoma AJCC v8|Pathologic Stage IIC Cutaneous Melanoma AJCC v8|Pathologic Stage III Cutaneous Melanoma AJCC v8|Pathologic Stage IIIA Cutaneous Melanoma AJCC v8|Pathologic Stage IIIB Cutaneous Melanoma AJCC v8|Pathologic Stage IIIC Cutaneous Melanoma AJCC v8" 18-80: 1 patients
+"Corpus Callosum Malformation|Prenatal Disorder" 18-55: 1 patients
+"Critical Limb Ischemia" 18-70: 1 patients
+"Crohn Disease" 6-18: 1 patients
+"Dementia|Dysphagia" 18-99: 1 patients
+"Depression|Psychiatric Disorder|Brain Diseases|Central Nervous System Diseases|Nervous System Diseases" 18-65: 1 patients
+"Depressive Disorder 12-17: 1 patients
+"Diabetes Mellitus 30-55: 1 patients
+"Down Syndrome 7-18: 1 patients
+"Dysphagia" 65-99: 1 patients
+"Eccentric Hip Adduction Strength" 18-26: 1 patients
+"Edema 18-45: 1 patients
+"Ehlers-Danlos Syndrome (EDS)|Complex Regional Pain Syndrome (CRPS)|Amplified Musculoskeletal Pain Syndrome (AMPS)|Low Back Pain|Fibromyalgia|Chronic Widespread Pain" 10-17: 1 patients
+"Eosinophilic Gastritis|Eosinophilic Gastroenteritis" 18-70: 1 patients
+"Femoral Artery Stenosis|Femoral Artery Occlusion|Popliteal Arterial Stenosis|Popliteal Artery Occlusion" 18-85: 1 patients
+"HIV Infections|Sexually Transmitted Diseases|Stigma 15-29: 1 patients
+"HIV/AIDS" 18-29: 1 patients
+"Healthy Adult Asian Participants" 20-55: 1 patients
+"Healthy Male Volunteers" 20-55: 1 patients
+"Healthy Volunteer" 18-55: 1 patients
+"Healthy Volunteers" 18-55: 1 patients
+"Healthy" 18-55: 1 patients
+"Healthy" 20-45: 1 patients
+"Hepatitis C" 18-65: 1 patients
+"High Caries Risk Patients|Caries|Antimicrobial Effect|Side Effect" 18-25: 1 patients
+"Hypermetabolism in ICU|Loss of Muscle Mass|Functional Disability After ICU|ICU Acquired Hypogonadism|Treatment With Testosterone Gel in ICU" 18-79: 1 patients
+"Hypersensitivity|Food Allergy|Hypersensitivity 6-21: 1 patients
+"Iliac Artery Stenosis|Iliac Artery Occlusion|Femoral Artery Stenosis|Femoral Artery Occlusion|Popliteal Arterial Stenosis|Popliteal Artery Occlusion" 18-80: 1 patients
+"Injury 5-18: 1 patients
+"Intracranial Aneurysm" 18-80: 1 patients
+"Low Back Pain 21-60: 1 patients
+"Lung Cancer" 40-82: 1 patients
+"Melanoma" 18-75: 1 patients
+"Metabolic Disease" 21-60: 1 patients
+"Metastatic Colorectal Cancer|Liver Metastases" 18-70: 1 patients
+"Migraine Aura" 18-55: 1 patients
+"Multiple Myeloma" 18-65: 1 patients
+"Multiple Sclerosis 45-65: 1 patients
+"No Results Available" 10-50: 1 patients
+"No Results Available" 18-45: 1 patients
+"No Results Available" 18-65: 7 patients
+"No Results Available" 18-70: 1 patients
+"No Results Available" 18-75: 4 patients
+"No Results Available" 19-64: 1 patients
+"No Results Available" 2-10: 1 patients
+"No Results Available" 20-42: 1 patients
+"No Results Available" 20-70: 1 patients
+"No Results Available" 20-80: 1 patients
+"No Results Available" 30-75: 1 patients
+"No Results Available" 35-55: 1 patients
+"No Results Available" 45-75: 1 patients
+"No Results Available" 50-75: 1 patients
+"No Results Available" 50-80: 1 patients
+"No Results Available" 6-18: 1 patients
+"No Results Available" 60-75: 2 patients
+"Nonalcoholic Fatty Liver Disease|Nonalcoholic Steatohepatitis|Bariatric Surgery Candidate|Obesity 22-65: 1 patients
+"Obstructive Sleep Apnea" 18-90: 1 patients
+"Oocyte Competence" 18-50: 1 patients
+"Osteoarthritis 18-75: 1 patients
+"Osteoarthritis 45-70: 1 patients
+"Ovarian Cancer Recurrent" 18-65: 1 patients
+"PAH|Pulmonary Hypertension|Pulmonary Arterial Hypertension|Hypertension|Connective Tissue Diseases|Familial Primary Pulmonary Hypertension|Vascular Diseases|Cardiovascular Diseases|Hypertension 18-75: 1 patients
+"Pain 1-6: 1 patients
+"Pain 18-85: 1 patients
+"Pain 21-70: 1 patients
+"Pain|Abuse 21-53: 1 patients
+"Pain|Postoperative Pain|Bleeding|Nose Bleed" 18-60: 1 patients
+"Partially Edentulous Maxilla 18-80: 1 patients
+"Peripheral Neuropathy" 18-80: 1 patients
+"Post-Concussion Syndrome|Mild Traumatic Brain Injury|Vestibular Disorder|Whiplash Injuries|Concussion 18-65: 1 patients
+"Postoperative Care/Methods|Drainage/Methods|Edema/Prevention & Control|Orthognathic Surgical Procedures/Adverse Effects" 14-65: 1 patients
+"Postoperative Pain Management" 6-17: 1 patients
+"Pramipexole|Emotions|Motivation|Reward|Dopamine" 18-45: 1 patients
+"Pregnancy 18-39: 1 patients
+"Primary Sclerosing Cholangitis|Cholangitis|Cholangitis 12-17: 1 patients
+"Pulmonary TB" 18-64: 1 patients
+"Respiration 18-65: 1 patients
+"Rotator Cuff Impingement Syndrome" 20-90: 1 patients
+"Seborrheic Dermatitis" 18-100: 1 patients
+"Self-regulation|Medication Adherence" 13-17: 1 patients
+"Sentinel Lymph Node Biopsy" 18-80: 1 patients
+"Sepsis|Acute Kidney Injury|Septic Shock|Sepsis 18-75: 1 patients
+"Sexual Dysfunction" 18-75: 1 patients
+"Single Ventricle Heart Disease" 14-18: 1 patients
+"Solid Tumor|HER-2 Protein Overexpression" 18-75: 1 patients
+"Spinal Anaesthesia" 18-65: 1 patients
+"Suicide and Self-harm" 18-89: 1 patients
+"Telemedicine: Smoking Cessation App Only|Telemedicine: Smoking Cessation Counseling|Telemedicine: App + Counseling|Usual Care" 18-60: 1 patients
+"Thoracic Paravertebral Blocks" 18-65: 1 patients
+"Tobacco Use" 10-12: 1 patients
+"Ultrasound" 18-50: 1 patients
+"Urinary Tract Infections" 18-90: 1 patients
+"Virtual Reality|Pain|Pain Perception|Pain Management|Anxiety|Catastrophizing 7-18: 1 patients
+"Visual Acuity" 18-49: 1 patients
+

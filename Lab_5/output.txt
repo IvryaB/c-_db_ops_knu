@@ -1,0 +1,1106 @@
+ADHD|Controls
+Abdominal Abscess
+Abdominal Aortic Aneurysm
+Abortion
+Accidental Fall|Fall|Fall Injury|Hip Fractures
+Acne Vulgaris
+Acquired Brain Injury
+Actinic Keratosis
+Acute Appendicitis
+Acute Bilineal Leukemia|Acute Biphenotypic Leukemia|Chronic Myelomonocytic Leukemia|IDH2 Gene Mutation|Myelodysplastic Syndrome|Recurrent Acute Myeloid Leukemia|Refractory Acute Myeloid Leukemia
+Acute Circulatory Failure
+Acute Diarrhea
+Acute Heart Failure
+Acute Ischemic Stroke
+Acute Ischemic Stroke and Transient Ischemic Attacks
+Acute Kidney Injury|Exercise
+Acute Myelogenous Leukemia
+Acute Myeloid Leukemia|Allogeneic Hematopoietic Cell Transplantation
+Acute Pain
+Acute Pancreatitis
+Acute Respiratory Failure
+Addiction
+Adenocarcinoma of the Prostate
+Adhesive Capsulitis
+Adolescent Behavior|Intellectual Disability|Down Syndrome|Physical Activity
+Adult Periodontitis
+Adult Primary Liver Cancer|Advanced Adult Primary Liver Cancer|Localized Unresectable Adult Primary Liver Cancer
+Advanced Non-small Cell Lung Cancer
+Advanced or Metastatic Solid Tumors|Advanced or Metastatic Melanoma|Advanced or Metastatic Head and Neck Squamous Cell Carcinoma|Advanced or Metastatic Cutaneous Squamous Cell Carcinoma|Advanced or Metastatic Merkel Cell Carcinoma
+Aesthetic Outcome of Crowns on Implants
+Aging|Cognitive Decline
+Aging|Healthy
+Agoraphobia
+Airway Management
+Alcohol Use Disorder
+All Orthopedic Disorders|New or Follow-up Patients
+All Solid Tumors
+Allergic Contact Dermatitis
+Allergic Rhinitis Due to Tree Pollen|Allergic Conjunctivitis|Allergic Rhinoconjunctivitis
+Alpha-1 Antitrypsin Deficiency (AATD)|Pi*ZZ, Pi*SZ, or Pi*Null Phenotype|Emphysema or COPD
+Alzheimer Disease
+Alzheimer Disease|Dementia|Neuropathology|Mild Cognitive Impairment
+Alzheimer Disease|Mild Cognitive Impairment
+Ametropia|Myopia|Hyperopia|Astigmatism|Presbyopia
+Amyotrophic Lateral Sclerosis
+Analgesia, Patient-Controlled
+Androgenetic Alopecia|Alopecia
+Anemia
+Anesthesia, Conduction|Ropivacaine|Dexamethasone|Axillary Brachial Plexus Block
+Anesthesia, Local|Phrenic Nerve Paralysis|Upper Extremity Injury|Phrenic Nerve Palsy on the Left|Phrenic Nerve Palsy on the Right
+Anesthesia|Thoracic Diseases
+Anger
+Ankle Arthritis|Foot Arthritis
+Anosmia|Head Trauma
+Anterior Cruciate Ligament Reconstruction
+Antibiotic Drug Concentration in Sweat
+Anticoagulation
+Antiphospholipid Syndrome
+Anxiety Disorders
+Anxiety Disorders|Mood Disorders|Transcranial Direct Current Stimulation|tDCS|Stress Reduction
+Anxiety|Burden, Dependency|Caregiver
+Anxiety|Depression
+Anxiety|Sleep Disturbance
+Aortic Valve Disease
+Aortic Valve Replacement
+Aortoiliac Aneurysm|Iliac Aneurysm
+Aphasia|Stroke, Acute
+Arrhythmogenic Right Ventricular Cardiomyopathy
+Arthroplasty Complications
+Articular Cartilage Disorder of Knee
+Aseptic Loosening|Arthroplasty Complications
+Asthma
+Asthma|Bronchial Diseases|Respiratory Tract Diseases|Lung Diseases, Obstructive|Lung Diseases|Respiratory Hypersensitivity|Hypersensitivity, Immediate|Hypersensitivity|Immune System Diseases
+Asthma|Inflammation|Cardiovascular Risk Factor
+Asthma|Nasal Polyps|Bronchial Diseases|Lung Diseases|Nose Diseases|Respiratory Hypersensitivity|Hypersensitivity
+Asthma|Vitamin D Deficiency|Pediatric Obesity
+Astigmatism
+Astigmatism Bilateral
+Astrogliosis|Postoperative Cognitive Dysfunction|Postoperative Delirium
+Atherosclerosis|Inflammation|Ischemic Stroke
+Atopic Dermatitis
+Atrial Fibrillation
+Atrial Fibrillation|Myocardial Ischemia
+Attention Deficit Hyperactivity Disorder
+Autism Spectrum Disorder
+Autonomic Failure|Dysautonomia|Cognitive Impairment|Ehlers-Danlos Syndrome|Postural Tachycardia Syndrome|Pure Autonomic Failure
+Avascular Necrosis of Hip|Osteoarthritis, Hip|Rheumatoid Arthritis|Inflammatory Arthritis|Post-traumatic; Arthrosis
+Avian Influenza|Influenza Immunisation
+B-cell Non-Hodgkin Lymphoma
+BRCA1 Mutation|BRCA2 Mutation|Mammography|MRI
+Back Pain
+Bariatric Surgery|Glomerular Filtration Rate
+Bariatric Surgery|Lipidemia
+Bariatric Surgery|Weight Loss
+Barretts Esophagus With Dysplasia
+Behavioral
+Bilateral Nasal Polyposis
+Bilirubinemia
+Binge-Eating Disorder|Overweight|Obesity
+Birth Injuries|Pelvic Floor Disorders|Instrumental; Injury, Obstetric
+Bladder Cancer|Hyperthermia|Chemotherapy Effect
+Blood Glucose, High
+Blood Loss Anemia
+Blood Loss Following Open Femur Fracture Surgery
+Blood Pressure
+Bone Metastases
+Bone Mineral|Bariatric Surgery
+Borderline Personality Disorder
+Bowel Preparation Quality
+Brain Tumor-Glioma
+Breast Cancer
+Breast Cancer Risk
+Breast Cancer|Hot Flashes|Postmenopausal Symptoms
+Breast Cancer|Mammographic Density
+Breast Cancer|Neoadjuvant Chemotherapy|Circulating Tumor DNA
+Breast Neoplasms
+Breast Tumor
+Breastfeeding|Lactation Failure|Nursing Caries|Postpartum|Reflexology
+Bright Light Treatment|Emotion|Facial Expression Recognition
+Bronchial Cancer|Malignant Mesothelioma
+Bronchopulmonary Dysplasia|Very Low Birth Weight Infant|Prematurity
+Burkitt Lymphoma|Retinoblastoma
+Burn With Full-Thickness Skin Loss
+Burnout, Professional|Anxiety|Depression|Stress
+COPD|Aging
+COPD|Emphysema or COPD|COPD Exacerbation|COPD Exacerbation Acute|Respiratory Failure|Ventilatory Failure
+Cancer
+Cancer Survivor|Invasive Breast Carcinoma
+Cancer of Head and Neck|Narcotic Use
+Cancer|Cardiovascular Diseases
+Cancer|Lymphoma|Pancreatic Cancer|Glioblastoma Multiforme|Sarcoma|Breast Cancer|Bladder Cancer|Renal Cancer|Ovarian Cancer|Refractory Cancer|Refractory Neoplasm|Refractory Non-Hodgkin Lymphoma|Refractory Brain Tumor|Pancreatic Adenocarcinoma|Resistant Cancer|Neoplasm Metastasis|Neoplasm of Bone|Neoplasm, Breast|Neoplasm of Lung|Neoplasms,Colorectal|Neoplasms Pancreatic|Malignant Glioma|Malignancies|Malignancies Multiple|Bone Metastases|Bone Neoplasm|Bone Cancer|Pancreas Cancer|Pancreatic Neoplasms|Breast Neoplasms
+Cancer|Metastasis to Lung
+Cannabis|Cannabis Use
+Carbapenem-Resistant Enterobacteriaceae|Carbapenemase-producing Enterobacteriaceae
+Carbohydrate Metabolism
+Cardiac Arrest|Extracorporeal Circulation|Extracorporeal Membrane Oxygenation|Cytokine Storm|Cytokine Release Syndrome|Post-Cardiac Arrest Syndrome
+Cardiac Electrophysiology
+Cardio-oncology
+Cardiogenic Shock|Acute Myocardial Infarction|STEMI - ST Elevation Myocardial Infarction|NSTEMI - Non-ST Segment Elevation MI|Heart Attack
+Cardiorenal Syndrome
+Cardiovascular Diseases|Cardiovascular Risk Factor|Obesity
+Cardiovascular Diseases|Cardiovascular Risk Factor|Vasoconstriction
+Cardiovascular Diseases|Cardiovascular Risk Factor|Vasodilation
+Cardiovascular Risk Factor|Lifestyle Risk Reduction|Primary Care
+Care Transitions
+Caregiver|Malignant Neoplasm
+Caregiver|Stage I Lung Cancer AJCC v7|Stage IA Lung Cancer AJCC v7|Stage IB Lung Cancer AJCC v7|Stage II Lung Cancer AJCC v7|Stage IIA Lung Cancer AJCC v7|Stage IIB Lung Cancer AJCC v7|Stage III Lung Cancer AJCC v7|Stage IIIA Lung Cancer AJCC v7|Stage IIIB Lung Cancer AJCC v7
+Caries, Dental
+Castration Levels of Testosterone|Metastatic Prostatic Adenocarcinoma|Stage IV Prostate Cancer AJCC v8|Stage IVA Prostate Cancer AJCC v8|Stage IVB Prostate Cancer AJCC v8
+Cataract
+Cataract|Lens Opacities|Presbyopia
+Cataract|Lens Opacity|Presbyopia
+Celiac Disease|Irritable Bowel Syndrome|Diet Modification|Gluten Sensitivity
+Central Blood Pressure in Diabetic Hypertensive
+Central Nervous System Lymphoma
+Cerebral Arteriovenous Malformations|Ruptured or Unruptured Cerebral Arteriovenous Malformations
+Cerebral Palsy
+Cerebral Palsy, Spastic
+Cerebral Stroke
+Cerebral Vascular Disorder
+Cerebrovascular Disorders|Platelet Refractoriness|Platelet Aggregation, Spontaneous
+Cervical Cancer
+Cervical Spine Osteophyte
+Cesarean Section Complications
+Changes Over Time in Pain and Functional Parameters|Comparison of Clinical Subjective Testing Procedures With Objective Testing Procedures
+Chemotherapy Effect|Immunotherapy|Tumor Mutation Burden|PD-1/L1 Inhibitor
+Chemotherapy-induced Peripheral Neuropathy
+Chest Trauma|Fluid Balance; Disorder
+Child Development|Premature Birth
+Childbirth Problems|Pregnancy Related|Behavior Problem
+Childhood Mortality
+Cholangiopancreatography, Endoscopic Retrograde
+Chronic Graft vs Host Disease
+Chronic Hand Eczema
+Chronic Heart Failure
+Chronic Hepatitis c
+Chronic Infection
+Chronic Kidney Diseases
+Chronic Kidney Diseases|Hypertension
+Chronic Myeloid Leukemia|CML|Philadelphia Chromosome-positive Acute Lymphoblastic Leukemia|Ph+ ALL
+Chronic Pain
+Chronic Pain|Opiate Dependence|Lower Back Pain
+Chronic Pain|Spirituality
+Chronic Renal Disease
+Chronic Rhinosinusitis With Polyposis
+Chronic Thromboembolic Pulmonary Hypertension
+Chronic Wounds
+Circadian Rhythm Disorders
+Clear Cell Renal Cell Carcinoma
+Clear Cell Renal Cell Carcinoma|Locally Advance Pancreatic Ductal Adenocarcinoma|Locally Advanced Malignant Solid Neoplasm|Metastatic Malignant Solid Neoplasm|Metastatic Renal Cell Carcinoma|Metastatic Urothelial Carcinoma|Pancreatic Ductal Adenocarcinoma|Stage III Pancreatic Cancer AJCC v8|Stage III Renal Cell Cancer AJCC v8|Stage IV Pancreatic Cancer AJCC v8|Stage IV Renal Cell Cancer AJCC v8
+Cleft Lip and Palate|Periodontal Pocket|Attachment Loss, Periodontal
+Cleft Palate Children|Laser
+Clinical Stage 0 Cutaneous Melanoma AJCC v8|Clinical Stage I Cutaneous Melanoma AJCC v8|Clinical Stage IA Cutaneous Melanoma AJCC v8|Clinical Stage IB Cutaneous Melanoma AJCC v8|Clinical Stage II Cutaneous Melanoma AJCC v8|Clinical Stage IIA Cutaneous Melanoma AJCC v8|Clinical Stage IIB Cutaneous Melanoma AJCC v8|Clinical Stage IIC Cutaneous Melanoma AJCC v8|Clinical Stage III Cutaneous Melanoma AJCC v8|First Degree Relative|Pathologic Stage 0 Cutaneous Melanoma AJCC v8|Pathologic Stage I Cutaneous Melanoma AJCC v8|Pathologic Stage IA Cutaneous Melanoma AJCC v8|Pathologic Stage IB Cutaneous Melanoma AJCC v8|Pathologic Stage II Cutaneous Melanoma AJCC v8|Pathologic Stage IIA Cutaneous Melanoma AJCC v8|Pathologic Stage IIB Cutaneous Melanoma AJCC v8|Pathologic Stage IIC Cutaneous Melanoma AJCC v8|Pathologic Stage III Cutaneous Melanoma AJCC v8|Pathologic Stage IIIA Cutaneous Melanoma AJCC v8|Pathologic Stage IIIB Cutaneous Melanoma AJCC v8|Pathologic Stage IIIC Cutaneous Melanoma AJCC v8
+Closed Fracture of Shaft of Humerus
+Coagulation Disorder
+Cognition Disorders in Old Age|Cardiovascular Diseases|Dementia
+Cognitive Change|Stress, Psychological|Mood
+Cohort 1a and 1b: Glioma|Cohort 1a and 1b: Glioblastoma Multiforme|Cohort 2a and 2b: Hepatobiliary Tumors (Hepatocellular Carcinoma, Bile Duct Carcinoma, Intrahepatic Cholangiocarcinoma, Other Hepatobiliary Carcinomas)|Cohort 3a and 3b: Chondrosarcoma|Cohort 4a and 4b: Intrahepatic Cholangiocarcinoma|Cohort 5a: Other Solid Tumors With IDH1 Mutations
+Colo-rectal Cancer|Cancer Colon|Cancer, Rectum|Neoplasms,Colorectal|Polyps|Polyp of Colon|Adenoma|Adenoma Colon
+Colon Adenoma|Colorectal Carcinoma|Hyperplastic Polyp|Serrated Adenoma
+Colon Cancer|Aging|Postoperative Complications
+Colorectal Adenocarcinoma|Colorectal Surgery
+Colorectal Cancer
+Colorectal Cancer With Liver Metastases
+Colorectal Neoplasms Malignant
+Common Wart
+Community Health Worker Performance
+Complicated Acute Appendicitis
+Complicated Intra-abdominal Infections
+Complication of Treatment|Catheterization
+Congenital Adrenal Hyperplasia|CAH - Congenital Adrenal Hyperplasia|CAH - 21-Hydroxylase Deficiency
+Congenital Heart Disease|Psychological Well-being|Quality of Life|Adolescent|Chinese
+Connective Tissue Diseases|Thrombocytopenia
+Consent
+Contact Lens Discomfort|Dry Eye
+Contact Lens|Contact Lens Discomfort|Contact Lens Dryness
+Copd|Aging
+Core Binding Factor Acute Myeloid Leukemia (CBF-AML)
+Corneal Endothelial Disorder
+Corneal Transplant
+Coronary Artery Disease
+Corpus Callosum Malformation|Prenatal Disorder
+Craniofacial Abnormalities
+Critical Limb Ischemia
+Critically Ill|Extubation|Intensive Care Unit
+Crohn Disease
+Crohn's Disease
+Cystic Fibrosis|Respiratory Infection
+Deep Vein Thrombosis|Atrial Fibrillation|Post-Myocardial Infarction Syndrome|Pulmonary Embolism|Artificial Heart Device User|Thrombophilia|Antiphospholipid Syndrome
+Degenerative Osteoarthritis|Rheumatic Arthritis|Fractures, Hip|Necrosis, Femur Head
+Dehydration
+Delirium|Dementia Alzheimers|Respiratory Failure
+Dementia
+Dementia|Alzheimer Disease
+Dementia|Alzheimer Disease|Circadian Rhythm Disorders|Circadian Rhythm Sleep Disorder|Insomnia|Hypersomnia|Cognitive Impairment|Cognitive Decline|Mild Cognitive Impairment|Frontotemporal Dementia|Neurocognitive Disorders|Vascular Dementia|Sleep Disorder|Memory Impairment
+Dementia|Dysphagia
+Dementia|Fall Injury
+Dental Anxiety
+Dental Caries
+Dental Caries|Dental White Spot
+Depression|Geriatrics|Neurocognitive Disorders
+Depression|Heart Failure
+Depression|Psychiatric Disorder|Brain Diseases|Central Nervous System Diseases|Nervous System Diseases
+Depressive Disorder, Major|Bipolar Depression|Suicidal Ideation
+Dermatitis Atopic
+Dermatomyositis
+Descemet's Stripping Automated Endothelial Keratoplasty
+Diabetes
+Diabetes Mellitus
+Diabetes Mellitus, Type 1
+Diabetes Mellitus, Type 1|Diabetes Mellitus|Metabolic Disease|Glucose Metabolism Disorders|Endocrine System Diseases|Juvenile Diabetes|Insulin Dependent Diabetes|Type 1 Diabetes Mellitus|Inflammation|Diet Modification
+Diabetes Mellitus, Type 2
+Diabetes Mellitus, Type 2|Glucose, High Blood|Glucose Metabolism Disorders
+Diabetes Mellitus, Type 2|Hepatitis C|Drug Interactions
+Diabetes Type 2|Dementia
+Diabetes, Gestational|Dietary Modification|Glucose Intolerance During Pregnancy|Body Composition|Birth Weight
+Diabetes|Diabetes Mellitus|Hypertension|Pre Diabetes|Overweight and Obesity
+Diabetic Foot
+Diabetic Foot Ulcer
+Diabetic Nephropathy Type 2
+Diabetic Neuropathy Peripheral
+Diabetic Polyneuropathy|Foot Injuries
+Diabetic Retinopathy|Retinal Vein Occlusion
+Diaphragm Injury
+Diffuse Large B Cell Lymphoma
+Diffuse Large B-Cell Lymphoma|Mantle Cell Lymphoma
+Diffuse Large B-Cell Lymphoma|Mantle Cell Lymphoma|Follicular Lymphoma
+Diffuse Large B-cell Lymphoma
+Digestive System Neoplasms|Surgery|Surgery--Complications|Quality of Health Care|Medical Audit
+Displaced Tooth
+Down Syndrome, Trisomy 21
+Down Syndrome|Depression
+Down Syndrome|Postural Balance
+Drug Use Disorders|HIV/AIDS
+Drug-Induced Acute Liver Injury
+Dry Eye Disease
+Dry Macular Degeneration
+Duchenne Muscular Dystrophy|Burden, Dependency|Disability Physical|Disease Management|Impairment|Rare Diseases
+Dysphagia
+Dysphagia|Malnutrition
+Dyspnea
+Eating Disorder
+Eating Disorder|Binge Eating|Circadian Dysregulation
+Eccentric Hip Adduction Strength
+Edema, Pulmonary|Immersion|Diving
+Edentulous Jaw|Quality of Life
+Effect of Glucagon-like Peptide 2 on Gallbladder Motility
+Ehlers-Danlos Syndrome (EDS)|Complex Regional Pain Syndrome (CRPS)|Amplified Musculoskeletal Pain Syndrome (AMPS)|Low Back Pain|Fibromyalgia|Chronic Widespread Pain
+Elderly People|Breakfast
+Elderly|Iatrogenic Drug Risk
+Electroencephalogram|Consciousness, Loss of
+Electroencephalography|Electrocardiography|Respiratory Rate|Surveys and Questionnaires
+Emotions|Stress|Fear
+Emphysema
+End-Stage Kidney Disease|Renal Dialysis|Central Venous Catheter|Biofilms
+Endodontic Disease|Root Canal Infection
+Endometrial Endometrioid Adenocarcinoma
+Endometrial Receptivity;RNA; Progesterone
+Endometriosis|Endometrioma
+Energy Metabolism|Heart Rate|Blood Pressure|Mood
+Environmental Exposure|Infertility
+Eosinophilic Gastritis|Eosinophilic Gastroenteritis
+Epilepsies, Partial
+Epilepsy
+Epilepsy|Insomnia
+Erythropoietic Protoporphyria
+Esophageal Varices Bleeding
+Esophageal Varices in Cirrhosis of the Liver
+Essential Tremor
+Exclusive Breastfeeding|Infant Feeding Practices
+Exercise Performance
+Exercise-induced Joint Pain, Stiffness and Cartilage Turnover
+ExtraCorporeal Membrane Oxygenation
+Fabry Disease
+Facial Laceration
+Fallopian Tube Endometrioid Tumor|Fallopian Tube Mucinous Neoplasm|Fallopian Tube Serous Neoplasm|Ovarian Clear Cell Tumor|Ovarian Endometrioid Tumor|Ovarian Mucinous Tumor|Ovarian Serous Tumor|Recurrent Fallopian Tube Carcinoma|Recurrent Ovarian Carcinoma|Recurrent Primary Peritoneal Carcinoma
+Fatty Liver
+Feeding and Eating Disorders
+Female Stress Incontinence
+Femoral Artery Stenosis|Femoral Artery Occlusion|Popliteal Arterial Stenosis|Popliteal Artery Occlusion
+Fertility|Cancer
+Fibromyalgia
+Financial Toxicity|Cancer|Question Prompt List
+Fluid Overload
+Food Allergy|Peanut Allergy|Tree Nut Allergy
+Frail Elderly Syndrome
+GVHD|Hematologic Neoplasms
+Gastric Adenocarcinoma|Gastroesophageal Junction Adenocarcinoma|Gastric Cancer
+Gastric Cancer
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma
+Gastrointestinal Complication
+Gastrointestinal Symptoms
+Gastroparesis
+Gastroparesis|Diabetic Gastroparesis|Idiopathic Gastroparesis
+Gastroparesis|Gastroparesis-like Syndrome
+Genetic Disorders in Pregnancy
+Genitourinary System; Disorder, Female|Burning Vagina|Dyspareunia|Irritation; Vagina|Menopause Related Conditions|Urinary Incontinence|Urinary Bladder, Overactive|Urinary Tract Infections|Lichen Sclerosus|Stress Urinary Incontinence
+Geriatric Assessment
+Gilles de la Tourette Syndrome
+Glabellar Frown Lines
+Glaucoma
+Glaucoma Eye
+Glaucoma, Closed-Angle
+Glaucoma, Open-Angle|Healthy
+Glioblastoma
+Glioma
+Glioma|Brain Tumor|Primary Brain Tumor|Malignant Glioma|Malignant Primary Brain Tumor
+Glycogen Storage Disease Type II
+HER2-positive Breast Cancer
+HIV
+HIV Infections
+HIV Infections|Adolescent Development|Care Eliciting Behavior|Patient Non-Compliance|Patient Refusal of Treatment
+HIV Infections|Sexually Transmitted Diseases|Stigma, Social
+HIV-1 Infection
+HIV/AIDS
+HIV/AIDS|Mental Health Issue (E.G., Depression, Psychosis, Personality Disorder, Substance Abuse)|Depression|Substance Use
+HIV|Cardiovascular Diseases
+HSIL, High-Grade Squamous Intraepithelial Lesions|Human Papilloma Virus Infection|HIV Infection|Anal Cancer|Anus Neoplasm
+Haematological Malignancy
+Hallux Valgus|Surgery
+Hamstring Tightness|Hamstring Injury Prevention
+Hantavirus Pulmonary Infection|Immunisation
+Head Injury Trauma|Emergencies
+Head and Neck Cancer
+Head and Neck Neoplasms
+Health Knowledge, Attitudes, Practice
+Health Status Unknown
+Healthy
+Healthy Adult Asian Participants
+Healthy Infants
+Healthy Male Volunteers
+Healthy Subjects
+Healthy Subject|Pregnant
+Healthy Volunteer
+Healthy Volunteers
+Healthy Volunteers|Polycystic Kidney, Autosomal Dominant
+Healthy|Atopic Dermatitis
+Hearing Impairment
+Hearing Loss, Sensorineural
+Hearing Loss|Cochlear Implant
+Heart Failure
+Heart Failure, Systolic
+Heart Failure|Diffuse Fibrosis|Focal Fibrosis|Arrythmia
+Heart Transplantation
+Helicobacter Pylori Infection
+Hematopoietic Stem Cell Transplantation
+Hematopoietic System--Cancer
+Hemostasis Monitoring
+Hepatic Fat Content
+Hepatic Impairment
+Hepatitis B, Chronic
+Hepatitis C
+Hepatitis C Viral
+Hepatitis|Safety and Tolerability
+Hepatocellular Carcinoma
+Hepatocellular Carcinoma|Radiation Exposure
+Hidradenitis Suppurativa|Mediterranean Diet|Body Composition|Vitamin D Deficiency|Trimethylamine N-oxide (TMAO)
+High Caries Risk Patients|Caries|Antimicrobial Effect|Side Effect
+High Risk for Falling
+High Velocity Transport Accidents
+Hiv|Meningitis, Meningococcal|HIV Infections
+Hodgkin Lymphoma
+Hormone Receptor Positive Advanced Breast Cancer|Metastatic Breast Cancer|Human Epidermal Receptor 2 Negative Advanced Breast Cancer|Castration Resistant Prostate Cancer
+Humans|Simulation Training|Problem-Based Learning|Clinical Competence|Education, Medical|Learning|Surgical Procedure, Unspecified
+Hyperglycemia
+Hyperlipidemias
+Hypermetabolism in ICU|Loss of Muscle Mass|Functional Disability After ICU|ICU Acquired Hypogonadism|Treatment With Testosterone Gel in ICU
+Hypersensitivity|Food Allergy|Hypersensitivity, Food|Peanut Hypersensitivity|Peanut Allergy
+Hypertension
+Hypertension in Pregnancy
+Hypertension|Genetics Hypertension
+Hypertension|Perioperative Hypertension
+Hypocalcemia
+Hypoplastic Left Heart|Congenital Heart Disease|Cyanotic Congenital Heart Disease|Cardiac Disease
+Hypospadias|Hypospadias and Epispadias and Other Penile Anomalies|Fistula|Fistula, Urinary|Bladder Exstrophy and Epispadias Complex|Bladder and Bladder Neck Disorders (Excluding Calculi)
+Hypoxic-Ischemic Encephalopathy|Birth Asphyxia
+Identify Biomarkers of Dietary Intake in Healthy Subjects
+Idiopathic Parkinson Disease
+Idiopathic Pulmonary Fibrosis
+Idiopathic Scoliosis
+Iliac Artery Stenosis|Iliac Artery Occlusion|Femoral Artery Stenosis|Femoral Artery Occlusion|Popliteal Arterial Stenosis|Popliteal Artery Occlusion
+Impact of Different Heel Heights on Spinal Configuration
+Impaction of Tooth
+Implant or Graft; Rejection
+In-hospital Falls
+Induction of Labor Affected Fetus / Newborn
+Infarction, Anterior Cerebral Artery|Infarction, Middle Cerebral Artery|Ischemic Attack, Transient
+Infection Systemic
+Infection, Bacterial
+Infectious Endocarditis
+Infective Endocarditis
+Infertility
+Infertility, Female|Infertility|Genital Diseases, Male|Genital Diseases, Female|Progesterone|Dydrogesterone|Hormones|Hormones, Hormone Substitutes, and Hormone Antagonists|Physiological Effects of Drugs|Progestins
+Infertility|ART
+Inflammation Eye
+Inflammatory Bowel Diseases
+Influenza
+Influenza, Human
+Inguinal Hernia|Inguinal Hernia Repair|Open Inguinal Hernia
+Injury, Brain
+Insertional Achilles Tendinopathy
+Insomnia
+Insomnia Disorder
+Insulin Sensitivity|Lipid Metabolism|Resistant Starch|Potato
+Intermittent Claudication|PAD|Atherosclerotic Ischemic Disease
+Intermittent Urethral Catheterization
+Intracranial Aneurysm
+Intracytoplasmic Sperm Injection
+Intrauterine Device
+Intravenous Catheterization
+Intubation
+Invasive Malignant Neoplasm|Metastatic Malignant Neoplasm in the Brain
+Invitro Fertilization
+Irritable Bowel Syndrome Characterized by Constipation
+Ischemic Heart Disease|Ischemic Attack
+Isolated Hypogonadotropic Hypogonadism|Kallmann Syndrome|Infertility
+Kidney Transplant Failure|Allosensitization|Immunosuppression
+Kidney Transplantation
+Knee Osteoarthritis
+Labor, Premature
+Laceration
+Language Development|Language Delay|Mother-Infant Interaction|Maternal Behavior
+Laparoscopic Hepatectomy|Laparoscopic Liver Thermal Ablation
+Leprosy|Buruli Ulcer|Yaws|Lymphatic Filariases
+Leukemia, Acute|MDS
+Leukemia, Lymphocytic, Acute, B-Cell|Leukemia, Lymphocytic, Chronic, B-Cell|Lymphoma, B-Cell
+Leukemia|Lymphoma
+Leukemia|Precursor b-Cell Lymphoblastic Leukemia-Lymphoma|ACUTE LYMPHOBLASTIC LEUKEMIA
+Lichen Planus, Oral
+Liver Function|Bariatric Surgery
+Liver Surgery
+Liver and Intrahepatic Bile Duct Disorder
+Local Breast Cancer Patients
+Long QT Syndrome|Sleep Apnea
+Long-term Mental Disorders
+Low Back Pain
+Low Back Pain, Recurrent
+Low Back Pain, Recurrent|Healthy
+Lumbar Degenerative Disease|Shared Decision Making|Patient Decision Aids|Evidence-based Medicine|Quality of Care
+Lung Cancer
+Lung Cancer, Nonsmall Cell
+Lung Cancer|Cancer|Malignancy
+Lung Diseases
+Lung Nodule
+Lung Surgery
+Lupus Nephritis|Lupus Erythematosus, Systemic
+Lymph Leakage
+Lymphedema|Breast Neoplasm
+Lymphoma, B-Cell
+Lymphoma|Lymphoma, B-Cell|Lymphoma, Non-Hodgkin|Lymphoma, Mantle-Cell|Lymphoma, Marginal Zone|Lymphoma, Large B-Cell, Diffuse|Lymphoma, Follicular
+Major Depressive Disorder
+Major Depressive Disorder|Unipolar Depression
+Malaria
+Male Infertility
+Malignant Mesothelioma|Non-Small Cell Lung Carcinoma|Pleural Disorder
+Malignant Neoplasm
+Malignant Neoplasm of Salivary Gland|Benign Neoplasm of Salivary Gland
+Malignant Neoplasm|Metastatic Malignant Neoplasm in the Brain
+Malnutrition
+Malnutrition|Dietary Modification
+Malocclusion
+Mayer Rokitansky Kuster Hauser Syndrome
+Mechanical Ventilation Complication|Complementary Health Approach
+Mechanical Ventilation|Mechanical Ventilator Weaning|Endotracheal Extubation
+Medical Education
+Melanoma
+Melanoma|In-Transit Metastasis
+Melasma
+Mental Disorder
+Mental Disorders
+Mental Health|Aggressive Childhood Behavior|Problem Behavior|Social Behavior
+Mental Impairment
+Mesothelioma
+Metabolic Cost of Walking With Arm Swing Assistive Device
+Metabolic Disease
+Metastatic Breast Cancer|Locally Advanced Breast Cancer|Advanced Breast Cancer|BRCA2 Mutation|BRCA1 Mutation
+Metastatic Colorectal Cancer|Liver Metastases
+Metastatic Non-small Cell Lung Cancer|Locally Advanced Urothelial Cancer|Metastatic Urothelial Cancer|Unresectable Melanoma|Metastatic Melanoma|Locally Advanced Renal Cell Carcinoma|Metastatic Clear-Cell Renal Cell Carcinoma
+Microvascular Decompression Surgery|Postoperative Nausea and Vomiting
+Migraine Aura
+Mild Cognitive Impairment, So Stated
+Mild Traumatic Brain Injury|Concussion, Mild|Academic Achievement|Specific Academic or Work Inhibition|Marriage|Marital Status|Income|Education|Socioeconomic Status|Sickness Absence
+Mild Traumatic Brain Injury|Post-Concussion Syndrome|Insomnia
+Minor Plastic Surgery
+Mitochondrial Diseases
+Monitoring, Physiologic|Intraoperative Neurophysiological Monitoring|Anesthesia and Analgesia|Arthroscopy
+Morbidly Adherent Placenta
+Morphea, Plaque Form
+Mouth Protectors|Quality of Life
+Multiple Myeloma
+Multiple Myeloma in Relapse|Multiple Myeloma Progression|Multiple Myeloma With Failed Remission
+Multiple Myeloma|Relapsed and Refractory Multiple Myeloma|Genetic Condition
+Multiple Sclerosis
+Multiple Sclerosis, Primary Progressive|Cognitive Impairment
+Multiple Sclerosis, Relapsing-Remitting
+Multiple Sclerosis|Cognitive Impairment
+Musculoskeletal Pain
+Musculoskeletal Pain|Occupational Exposure|Office Workers
+Myelodysplastic Syndromes
+Myelodysplastic Syndromes|Chronic Myelomonocytic Leukemia-1|Cytopenia
+Myeloproliferative Disorder
+Myocardial Function of the Stenosis Aortic Valve Before and Beyond Valve Replacement
+Myocardial Infarction With Non-obstructive Coronary Arteries
+Myocardial Infarction|STEMI|Myocardial Necrosis|Myocardial Injury
+Myopia
+NAFLD - Nonalcoholic Fatty Liver Disease|NASH - Nonalcoholic Steatohepatitis
+Nasopharyngeal Carcinoma|Nasopharyngeal Cancer
+Nausea|Vomiting|End Stage Cancer
+Neoplasms, Pancreatic
+Neovascular Age-Related Macular Degeneration
+Neovascular Age-related Macular Degeneration
+Neuroblastoma|Sarcoma|Pediatric Cancer
+Neurocognitive Disorders
+Neurodegenerative Diseases
+Neuroendocrine Tumors|Liver Metastases
+Neurofibroma, Plexiform
+Neuromuscular Disease|Duchenne Muscular Dystrophy|Spinal Muscular Atrophy|Virtual Reality|Biofeedback
+Neuropathic Pain
+Neurosurgery|Elective Craniotomy|General Anaesthesia
+Newborn; Infection
+Niemann-Pick Disease, Type C
+Non Hodgkin Lymphoma
+Non Small Cell Lung Cancer|Hepatitis B
+Non Small Cell Lung Cancer|Lung Cancer Stage 1
+Non Small Cell Lung Cancer|Urothelial Carcinoma|Malignant Melanoma|Ovarian Cancer|Colorectal Cancer|Breast Cancer|Squamous Cell Carcinoma of the Head and Neck|Metastatic Cancer
+Non-fasting Patients|Rapid Sequence Intubation|Anesthesia Intubation Complication
+Nonalcoholic Fatty Liver Disease|Nonalcoholic Steatohepatitis|Bariatric Surgery Candidate|Obesity, Morbid
+Noninvasive Ventilation|Respiratory Insufficiency|Deep Sedation|Hypoxia|Airway Management|Colonoscopy
+Noninvasive Ventilation|Respiratory Insufficiency|Obesity|Deep Sedation|Hypoxia|Airway Management|Colonoscopy
+Nonresectable Bile Duct Cancer
+Normal Healthy Subjects
+Nose; Anomaly
+Nurse's Role|Simulation|Arteriovenous Fistula
+OCD
+Obesity
+Obesity|High Body Fat
+Obesity|Lumbar Spine Surgery
+Obesity|Physical Activity
+Obesity|Pre Diabetes
+Obesity|Sedentary Lifestyle|Insulin Resistance
+Observation
+Obsessive-compulsive Disorders and Symptoms|Obsessive-Compulsive Disorder
+Obstructive Sleep Apnea
+Occupational Exposure
+Ocular Surface Disease
+Office Hysteroscopy
+Older Adults
+Oocyte Competence
+Opioid Addiction
+Opioid Use
+Opioid Use|Opioid Dependence|Opioid Abuse|Opioid-Related Disorders
+Opioid-Induced Constipation
+Opioid-Related Disorders|Opioid Withdrawal
+Opioid-use Disorder
+Oral Cancer
+Oral Cancer|Oral Lichen Planus|Oral Leukoplakia
+Oral Disease|Muco-Cutaneo-Ocular Syndrome
+Oral Mucositis|Head and Neck Cancer
+Oral Potentially Malignant Lesions|Oral Cancer
+Orthodontic Retention Compliance
+Orthognathic Surgery
+Osteo Arthritis Knee
+Osteo Arthritis Knee|Knee Arthroplasty
+Osteoarthritis Thumb|Arthrosis of First Carpometacarpal Joint|Joint Instability
+Osteoarthritis in the Knee
+Osteoarthritis, Knee
+Osteoarthritis, Knee|Prosthesis User
+Osteoarthritis,Knee
+Osteoarthritis|Osteo Arthritis Knee
+Osteopenia
+Osteoporosis|Fall Injury
+Osteoporotic Fracture of Vertebra
+Osteosarcoma
+Otomycosis
+Out-Of-Hospital Cardiac Arrest
+Ovarian Cancer Recurrent
+Ovarian Neoplasm|Uterine Neoplasm
+Overactive Bladder|Urinary Urgency|Urge Incontinence
+Overweight and Obesity
+PAD|Critical Limb Ischemia|Atherosclerotic Ischemic Disease
+PAH|Pulmonary Hypertension|Pulmonary Arterial Hypertension|Hypertension|Connective Tissue Diseases|Familial Primary Pulmonary Hypertension|Vascular Diseases|Cardiovascular Diseases|Hypertension, Pulmonary|Lung Diseases|Respiratory Tract Disease
+PK in Patients With Various Degrees of Renal Impairment
+PTEN Gene Mutation
+Pain
+Pain, Postoperative
+Pain, Postoperative|Agitation States as Acute Reaction to Exceptional Stress|Anesthesia|Vomiting
+Pain, Postoperative|Anxiety
+Pain, Postoperative|Premature Infant|Opioid Use
+Pain|Abuse, Drug
+Pain|Cannulation|Body Mass Index
+Pain|Physical Activity
+Pain|Postoperative Pain|Bleeding|Nose Bleed
+Pain|Sickle Cell Disease
+Pancreas Cancer
+Pancreatectomy
+Pancreatic Cancer
+Pancreatic Ductal Adenocarcinoma|Who Have High CTCs Count in Portal Venous Blood|Liver Metastases
+Pancreatic Resection|Preoperative Frailty
+Pancreatitis, Acute
+Parent of Child With Chronic Life-threatening Illness
+Parents
+Parkinson Disease
+Parkinson Disease|Cognitive Impairment
+Partial Seizures With or Without Secondary Generalization|Epilepsy
+Partially Edentulous Maxilla, Partially Edentulous Mandible
+Patellofemoral Pain Syndrome
+Patient Education
+Patients Indicated for Periampullary or Pancreaticobiliary Examination
+Peanut Allergy
+Pediatric Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)
+Pelvic Floor Disorders|Obstetric Trauma|Physical Disorder|Physical Activity
+Pelvic Organ Prolapse|Abdominal Surgery|Laparoscopic Surgery|Post Operative Pain
+Penile Cancer
+Perimenopause|Depression|Mood Disorders
+Peripheral Artery Disease
+Peripheral Neuropathy
+Peripheral Neuropathy|Diabetes
+Peritoneal Carcinomatosis|Peritoneal Metastases|Colorectal Cancer|Gastric Cancer|Breast Cancer|Pancreas Cancer|Carcinoembryonic Antigen
+Peritoneal Dialysis
+Peritoneal Dialysis-associated Peritonitis
+Persistent Atrial Fibrillation
+Persistent Corneal Epithelial Defect
+Pharmacokinetics
+Photosensitive Epilepsy
+Physical Activity
+Physical Activity|Metabolic Syndrome|Lifestyle, Sedentary
+Physical Activity|Pregnant|Mobile Health Apps
+Physical Activity|Sedentary Lifestyle
+Pituitary Neoplasm
+Pituitary Tumor
+Plantar Fascitis
+Platelet Reactivity
+Pleural Effusion|Cancer, Lung
+Polycystic Ovary Syndrome
+Polycystic Ovary Syndrome|Overweight and Obesity
+Polypharmacy|Inappropriate Prescribing
+Polypharmacy|Inappropriate Prescribing|Aged|Primary Health Care|Quality Improvement|Electronic Health Records
+Positron-Emission Tomography|Non-small Cell Lung Cancer
+Post Operative Recovery
+Post Partum Hemorrhage
+Post-Concussion Syndrome|Mild Traumatic Brain Injury|Vestibular Disorder|Whiplash Injuries|Concussion, Brain
+Post-Op Infection|Adherence, Patient|Pulmonary Atelectasis|Incentive Spirometry|Post-Op Complication
+Post-Traumatic Orbital Deformity
+Post-operative Pain|Post-partum Pain
+Posterior Mandible With Deficient Ridge Height
+Postmenopausal Symptoms|Dyspareunia|Vestibulodynia|Female Sexual Dysfunction|Vulvar Vestibulitis|Vulvodynia|Vulvovaginal Atrophy
+Postoperative Care/Methods|Drainage/Methods|Edema/Prevention & Control|Orthognathic Surgical Procedures/Adverse Effects
+Postoperative Pain
+Postoperative Pain Management
+Postoperative Pain|Anterior Cruciate Ligament Injury|Anterior Cruciate Ligament Rupture
+Postoperative Pain|Postoperative Complications|Gingival Recession
+Postoperative Pain|Postoperative Complications|Pancreatic Cancer|Haemodynamic Instability
+Postoperative Pulmonary Complication
+Postoperative Respiratory Failure
+Posttraumatic Stress Disorders|PTSD
+Pramipexole|Emotions|Motivation|Reward|Dopamine
+PreDiabetes
+Pregnancy Related|Physical Activity
+Pregnancy, Ovarian
+Premature Birth
+Premature Infant
+Premature Infant|Work of Breathing|Oxygen Saturation
+Premature Rupture of Membrane
+Prematurity
+Pressure Ulcer|Incontinence-associated Dermatitis|Irritant Contact Dermatitis|Diaper Rash
+Preterm Birth
+Preterm Infant|Mothers|Parent-Child Relations|Child Development|Interaction, Mother-Infant
+Primary Biliary Cholangitis
+Primary Generalized Epilepsy
+Primary Hyperoxaluria Type 1 (PH1)
+Primary Sclerosing Cholangitis|Cholangitis|Cholangitis, Sclerosing|Bile Duct Diseases|Biliary Tract Diseases|Digestive System Diseases|Adolescent
+Primary Sjögren's Syndrome (pSS)
+Primary or Secondary Immunodeficiency Disease
+Proliferative Nephritis|Chloroquine Retinopathy
+Prolonged Mechanical Ventilation
+Prostate Cancer
+Prostate Cancer|Adenocarcinoma of the Prostate
+Prostatic Neoplasms
+Prostatism|Erectile Dysfunction
+Pruritus|Prurigo Nodularis
+Psychosis
+Psychotic Disorder
+Pulmonary Arterial Hypertension
+Pulmonary Infection
+Pulmonary TB
+Rare Diseases|Fabry Disease|Adherence, Medication|Quality of Life
+Reconstructive Surgery After Carcinological Excision
+Recruitment
+Recurrent Glioblastoma
+Recurrent Nasopharyngeal Carcinoma
+Refractory Cancer|Recurrent Cancer|Solid Tumor, Adult|Cancer
+Regional Anesthesia
+Relapsed Diffuse Large B-Cell Lymphoma|Refractory Diffuse Large B-Cell Lymphoma
+Renal Angioplasty on Atherosclerotic Stenosis
+Renal Cancer
+Renal Cell Carcinoma|Papillary Renal Cell Carcinoma Type 1|Papillary Renal Cell Carcinoma Type 2|Chromophobe Renal Cell Carcinoma|Sarcomatoid Renal Cell Carcinoma|Xp11.2 Translocation-Related Renal Cell Carcinoma
+Respiration, Artificial|Laparoscopy|Hemodynamics
+Respiratory Infections in Children
+Rheumatoid Arthritis
+Rheumatoid Arthritis (RA)
+Rhinosinusitis
+Rosacea
+Rotator Cuff Impingement Syndrome
+Rotator Cuff Tear
+Rotator Cuff Tear|Rotator Cuff Injury
+Safety Issues|Effect of Drugs
+Safety Issues|Immunogenicity
+Safety|Immunogenicity
+Sarcoma, Soft Tissue
+Sciatic Nerve Block
+Screening Tool for Depresion in Cancer Pain Patients
+Seborrheic Dermatitis
+Sedation in Critically Ill COPD Patients
+Sedentary Lifestyle
+Self-management|Self Efficacy
+Self-regulation|Medication Adherence
+Sensitization to Legumes
+Sentinel Lymph Node Biopsy
+Sepsis
+Sepsis, Septic Shock
+Sepsis|Acute Kidney Injury|Septic Shock|Sepsis, Severe
+Sepsis|Vitamin C|Intensive Care Unit
+Severe Sepsis or Septic Shock
+Sex, Unsafe|Adolescent Behavior|Behavior, Sex
+Sexual Dysfunction
+Sexually Transmitted Diseases|Sexually Transmitted Diseases, Viral|Sexually Transmitted Diseases, Bacterial
+Shivering
+Sickle Cell Nephropathy
+Sickle Cell|PKLR Variants|Adenosine Triphosphate Activities
+Single Posterior Crowns|Badly Decayed Teeth, Teeth Restored With Large Filling Restorations or Endodontically Treated Teeth|Malformed Teeth, Malposed Teeth (Tilted, Over-erupted, Rotated, Etc.) or Spacing Between Posterior Teeth
+Single Ventricle Heart Disease
+Sinus Floor Augmentation
+Skin Aging
+Sleep Disorder
+Sleep Initiation and Maintenance Disorders
+Sleep Initiation and Maintenance Disorders|Cognitive Aging
+Slow Arrhythmia|His Bundle Pacing|Function of Left Atrial and Ventricle
+Smoking
+Smoking|Binge Eating|Behavior
+Snacking
+Soccer|Exercise|Athletic Performance
+Social Anxiety Disorder
+Social Interaction|Quality of Life|Health, Subjective
+Socket Preservation
+Socket Shield
+Solid Tumor|HER-2 Protein Overexpression
+Specific Phobia
+Spinal Anaesthesia
+Spinal Anaesthesia|Obesity
+Spinal Cord Injuries
+Spinal Cord Injuries|Spinal Cord Injury at C5 Level|Spinal Cord Injury at C5-C7 Level|Spinal Cord Injury Cervical
+Spinocerebellar Ataxias|Tai ji
+Sports Physical Therapy
+Staff Attitude
+Stage IV Breast Cancer
+Staphylococcus Aureus
+Stem Cell Transplantation
+Stress Urinary Incontinence
+Stroke
+Stroke Sequelae
+Stroke|Acute Stroke|Chronic Stroke
+Stunting|Low Birth Weight|Anemia in Pregnancy
+Stunting|Malnutrition; Protein|Enteric Pathogens|Campylobacter Infections
+Subcutaneous Fat
+Substance Use Disorders|Drug Abuse|Drug Addiction|Substance Abuse|Drug Use Disorders|Drug Dependence|Substance Addiction
+Substance Use Disorder|Post-traumatic Stress Disorder|Moral Injury
+Suicidal Ideation|Mind Body Bridging
+Suicide
+Suicide and Self-harm
+Supportive Care
+Surgery
+Surgical Site Infections
+Surgical Skin Preparation|Surgical Procedure, Unspecified
+Systemic Amyloidosis
+Systemic Sclerosis|Gastrointestinal Complication
+Task Performance and Analysis|Efficiency
+Telemedicine: Smoking Cessation App Only|Telemedicine: Smoking Cessation Counseling|Telemedicine: App + Counseling|Usual Care
+Thalassemia,Embryonic Development,Reproductive Sterility and Infertility
+Thoracic Paravertebral Blocks
+Thyroid Cancer|Recurrent Laryngeal Nerve Injuries
+Thyroid Surgery
+Tinnitus, Subjective
+Tobacco Use
+Tonsillar Hypertrophy|Adenoid Hypertrophy|Cryptorchidism|Hypospadias|Hydrocele
+Tooth Discoloration
+Total Knee Arthroplasty
+Transcutaneous Vagal Nerve Stimulation (tVNS)|Prader-Willi Syndrome
+Transrectal Systematic Prostate Biopsy Related Pain
+Trauma
+Treatment Resistant Depression
+Trigger Point Pain, Myofascial
+Trigger Thumb
+Trisomy 21
+Type 1 Diabetes Mellitus
+Type 2 Diabetes Mellitus
+Type 2 Diabetes|High Blood Pressure|Arthritis|Obesity
+Type2 Diabetes Mellitus|Exercise
+Ulcerative Colitis
+Ultrasound
+Unresectable Locally Advanced Urothelial Cancer|Metastatic Urothelial Cancer
+Upper Airways Disease
+Upper Gastrointestinal Bleeding
+Urinary Tract Disease
+Urinary Tract Infections
+Urothelial Carcinoma
+Uterine Scar
+Vaccination Failure
+Vaginal Vault Prolapse
+Varicella Zoster Vaccine
+Varicose Ulcer
+Varicose Veins|Chronic Venous Insufficiency
+Vascular Surgery
+Venous Thromboembolism|Anticoagulants
+Ventricular Septal Defect
+Virtual Reality; Rehabilitation; Parkinson's Disease
+Virtual Reality|Pain|Pain Perception|Pain Management|Anxiety|Catastrophizing, Pain
+Virtual Reality|Pediatrics
+Visual Acuity
+Vitreomacular Interface
+Vitreomacular Traction (VMT)|and Full-thickness Macular Holes (MH)
+Vulvar Lichen Sclerosus
+Waldenstrom Macroglobulinemia
+Waldenstrom Macroglobulinemia|Waldenstrom's Disease|Waldenström; Hypergammaglobulinemia|Waldenstrom's Macroglobulinemia Recurrent|Waldenstrom's Macroglobulinemia of Lymph Nodes|Waldenstrom's Macroglobulinaemia, Without Mention of Remission|Waldenstrom's Macroglobulinemia Refractory
+Wound
+Wound Dehiscence
+Wound Infection
+Wound and Injuries|Blood Platelets|Endothelium
+Wounds and Injuries|Lacerations|Surgical Incision
+Zika Virus Infection
+on Vitreomacular Interface Abnormalities in Diabetic Retinopathy
+1 Month to 17 Years   (Child)
+1 Month to 7 Months   (Child)
+1 Year and older   (Child, Adult, Older Adult)
+1 Year to 18 Years   (Child, Adult)
+1 Year to 21 Years   (Child, Adult)
+1 Year to 26 Years   (Child, Adult)
+1 Year to 6 Years   (Child)
+10 Years and older   (Child, Adult, Older Adult)
+10 Years to 12 Years   (Child)
+10 Years to 17 Years   (Child)
+10 Years to 18 Years   (Child, Adult)
+10 Years to 19 Years   (Child, Adult)
+10 Years to 45 Years   (Child, Adult)
+10 Years to 50 Years   (Child, Adult)
+11 Years and older   (Child, Adult, Older Adult)
+11 Years to 49 Years   (Child, Adult)
+12 Years and older   (Child, Adult, Older Adult)
+12 Years to 17 Years   (Child)
+12 Years to 18 Years   (Child, Adult)
+12 Years to 50 Years   (Child, Adult)
+12 Years to 70 Years   (Child, Adult, Older Adult)
+13 Years to 17 Years   (Child)
+13 Years to 18 Years   (Child, Adult)
+14 Years to 16 Years   (Child)
+14 Years to 18 Years   (Child, Adult)
+14 Years to 30 Years   (Child, Adult)
+14 Years to 65 Years   (Child, Adult, Older Adult)
+14 Years to 75 Years   (Child, Adult, Older Adult)
+14 Years to 80 Years   (Child, Adult, Older Adult)
+15 Years to 25 Years   (Child, Adult)
+15 Years to 29 Years   (Child, Adult)
+15 Years to 30 Years   (Child, Adult)
+15 Years to 34 Years   (Child, Adult)
+16 Years and older   (Child, Adult, Older Adult)
+16 Years to 25 Years   (Child, Adult)
+16 Years to 80 Years   (Child, Adult, Older Adult)
+17 Years and older   (Child, Adult, Older Adult)
+17 Years to 27 Years   (Child, Adult)
+17 Years to 30 Years   (Child, Adult)
+18 Years and older   (Adult, Older Adult)
+18 Years to 100 Years   (Adult, Older Adult)
+18 Years to 110 Years   (Adult, Older Adult)
+18 Years to 120 Years   (Adult, Older Adult)
+18 Years to 25 Years   (Adult)
+18 Years to 26 Years   (Adult)
+18 Years to 29 Years   (Adult)
+18 Years to 30 Years   (Adult)
+18 Years to 34 Years   (Adult)
+18 Years to 35 Years   (Adult)
+18 Years to 36 Years   (Adult)
+18 Years to 37 Years   (Adult)
+18 Years to 38 Years   (Adult)
+18 Years to 39 Years   (Adult)
+18 Years to 40 Years   (Adult)
+18 Years to 41 Years   (Adult)
+18 Years to 42 Years   (Adult)
+18 Years to 45 Years   (Adult)
+18 Years to 49 Years   (Adult)
+18 Years to 50 Years   (Adult)
+18 Years to 54 Years   (Adult)
+18 Years to 55 Years   (Adult)
+18 Years to 58 Years   (Adult)
+18 Years to 60 Years   (Adult)
+18 Years to 64 Years   (Adult)
+18 Years to 65 Years   (Adult, Older Adult)
+18 Years to 69 Years   (Adult, Older Adult)
+18 Years to 70 Years   (Adult, Older Adult)
+18 Years to 74 Years   (Adult, Older Adult)
+18 Years to 75 Years   (Adult, Older Adult)
+18 Years to 79 Years   (Adult, Older Adult)
+18 Years to 80 Years   (Adult, Older Adult)
+18 Years to 81 Years   (Adult, Older Adult)
+18 Years to 85 Years   (Adult, Older Adult)
+18 Years to 89 Years   (Adult, Older Adult)
+18 Years to 90 Years   (Adult, Older Adult)
+18 Years to 95 Years   (Adult, Older Adult)
+18 Years to 99 Years   (Adult, Older Adult)
+19 Years and older   (Adult, Older Adult)
+19 Years to 25 Years   (Adult)
+19 Years to 27 Years   (Adult)
+19 Years to 35 Years   (Adult)
+19 Years to 37 Years   (Adult)
+19 Years to 40 Years   (Adult)
+19 Years to 55 Years   (Adult)
+19 Years to 64 Years   (Adult)
+19 Years to 65 Years   (Adult, Older Adult)
+19 Years to 80 Years   (Adult, Older Adult)
+19 Years to 94 Years   (Adult, Older Adult)
+2 Years and older   (Child, Adult, Older Adult)
+2 Years to 10 Years   (Child)
+2 Years to 12 Years   (Child)
+2 Years to 16 Years   (Child)
+2 Years to 18 Years   (Child, Adult)
+20 Years and older   (Adult, Older Adult)
+20 Years to 100 Years   (Adult, Older Adult)
+20 Years to 25 Years   (Adult)
+20 Years to 35 Years   (Adult)
+20 Years to 38 Years   (Adult)
+20 Years to 40 Years   (Adult)
+20 Years to 42 Years   (Adult)
+20 Years to 43 Years   (Adult)
+20 Years to 45 Years   (Adult)
+20 Years to 55 Years   (Adult)
+20 Years to 60 Years   (Adult)
+20 Years to 70 Years   (Adult, Older Adult)
+20 Years to 75 Years   (Adult, Older Adult)
+20 Years to 79 Years   (Adult, Older Adult)
+20 Years to 80 Years   (Adult, Older Adult)
+20 Years to 85 Years   (Adult, Older Adult)
+20 Years to 90 Years   (Adult, Older Adult)
+21 Years and older   (Adult, Older Adult)
+21 Years to 37 Years   (Adult)
+21 Years to 53 Years   (Adult)
+21 Years to 55 Years   (Adult)
+21 Years to 60 Years   (Adult)
+21 Years to 70 Years   (Adult, Older Adult)
+21 Years to 75 Years   (Adult, Older Adult)
+21 Years to 80 Years   (Adult, Older Adult)
+21 Years to 89 Years   (Adult, Older Adult)
+21 Years to 99 Years   (Adult, Older Adult)
+22 Months to 26 Months   (Child)
+22 Years to 65 Years   (Adult, Older Adult)
+23 Weeks to 31 Weeks   (Child)
+23 Years to 64 Years   (Adult)
+25 Years to 45 Years   (Adult)
+25 Years to 60 Years   (Adult)
+25 Years to 75 Years   (Adult, Older Adult)
+25 Years to 80 Years   (Adult, Older Adult)
+27 Years and older   (Adult, Older Adult)
+28 Weeks to 37 Weeks   (Child)
+3 Months and older   (Child, Adult, Older Adult)
+3 Months to 12 Months   (Child)
+3 Months to 26 Months   (Child)
+3 Months to 6 Months   (Child)
+3 Years to 13 Years   (Child)
+30 Years and older   (Adult, Older Adult)
+30 Years to 50 Years   (Adult)
+30 Years to 55 Years   (Adult)
+30 Years to 60 Years   (Adult)
+30 Years to 65 Years   (Adult, Older Adult)
+30 Years to 70 Years   (Adult, Older Adult)
+30 Years to 75 Years   (Adult, Older Adult)
+30 Years to 80 Years   (Adult, Older Adult)
+30 Years to 90 Years   (Adult, Older Adult)
+31 Days to 5 Years   (Child)
+33 Weeks to 42 Weeks   (Child)
+35 Years and older   (Adult, Older Adult)
+35 Years to 55 Years   (Adult)
+35 Years to 65 Years   (Adult, Older Adult)
+35 Years to 75 Years   (Adult, Older Adult)
+35 Years to 80 Years   (Adult, Older Adult)
+39 Years to 50 Years   (Adult)
+4 Months to 50 Years   (Child, Adult)
+4 Years to 12 Years   (Child)
+4 Years to 20 Years   (Child, Adult)
+4 Years to 6 Years   (Child)
+4 Years to 8 Years   (Child)
+40 Years and older   (Adult, Older Adult)
+40 Years to 60 Years   (Adult)
+40 Years to 69 Years   (Adult, Older Adult)
+40 Years to 70 Years   (Adult, Older Adult)
+40 Years to 75 Years   (Adult, Older Adult)
+40 Years to 80 Years   (Adult, Older Adult)
+40 Years to 82 Years   (Adult, Older Adult)
+40 Years to 85 Years   (Adult, Older Adult)
+40 Years to 89 Years   (Adult, Older Adult)
+40 Years to 90 Years   (Adult, Older Adult)
+41 Years to 70 Years   (Adult, Older Adult)
+45 Years to 65 Years   (Adult, Older Adult)
+45 Years to 70 Years   (Adult, Older Adult)
+45 Years to 75 Years   (Adult, Older Adult)
+45 Years to 85 Years   (Adult, Older Adult)
+5 Months to 18 Years   (Child, Adult)
+5 Years to 17 Years   (Child)
+5 Years to 18 Years   (Child, Adult)
+5 Years to 8 Years   (Child)
+50 Years and older   (Adult, Older Adult)
+50 Years to 65 Years   (Adult, Older Adult)
+50 Years to 75 Years   (Adult, Older Adult)
+50 Years to 80 Years   (Adult, Older Adult)
+50 Years to 85 Years   (Adult, Older Adult)
+50 Years to 90 Years   (Adult, Older Adult)
+55 Years and older   (Adult, Older Adult)
+55 Years to 75 Years   (Adult, Older Adult)
+6 Months and older   (Child, Adult, Older Adult)
+6 Months to 12 Years   (Child)
+6 Months to 18 Months   (Child)
+6 Months to 24 Months   (Child)
+6 Months to 99 Years   (Child, Adult, Older Adult)
+6 Years and older   (Child, Adult, Older Adult)
+6 Years to 16 Years   (Child)
+6 Years to 17 Years   (Child)
+6 Years to 18 Years   (Child, Adult)
+6 Years to 21 Years   (Child, Adult)
+6 Years to 30 Years   (Child, Adult)
+60 Years and older   (Adult, Older Adult)
+60 Years to 75 Years   (Adult, Older Adult)
+60 Years to 79 Years   (Adult, Older Adult)
+60 Years to 80 Years   (Adult, Older Adult)
+65 Years and older   (Older Adult)
+65 Years to 75 Years   (Older Adult)
+65 Years to 80 Years   (Older Adult)
+65 Years to 99 Years   (Older Adult)
+66 Years to 98 Years   (Older Adult)
+7 Years to 18 Years   (Child, Adult)
+7 Years to 26 Years   (Child, Adult)
+70 Years to 89 Years   (Older Adult)
+72 Months to 192 Months   (Child)
+75 Years and older   (Older Adult)
+8 Years to 12 Years   (Child)
+8 Years to 13 Years   (Child)
+8 Years to 14 Years   (Child)
+8 Years to 16 Years   (Child)
+8 Years to 17 Years   (Child)
+8 Years to 18 Years   (Child, Adult)
+8 Years to 19 Years   (Child, Adult)
+9 Months to 47 Months   (Child)
+9 Years to 12 Years   (Child)
+9 Years to 15 Years   (Child)
+Child, Adult, Older Adult
+up to 1 Month   (Child)
+up to 11 Years   (Child)
+up to 12 Months   (Child)
+up to 17 Years   (Child)
+up to 18 Years   (Child, Adult)
+up to 2 Days   (Child)
+up to 2 Months   (Child)
+up to 26 Years   (Child, Adult)
+up to 28 Days   (Child)
+up to 4 Years   (Child)
+up to 5 Years   (Child)
+up to 6 Months   (Child)
+up to 60 Days   (Child)
+up to 8 Days   (Child)
+up to 90 Years   (Child, Adult, Older Adult)
+up to 99 Years   (Child, Adult, Older Adult)
